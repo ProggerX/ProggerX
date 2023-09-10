@@ -10,10 +10,10 @@ I'm ProggerX!
 
 [ProggerX/Projectoria](https://github.com/ProggerX/Projectoria)
 
-Site menu:
+My site:
 ----------
 
-*   [Main page](/)
+*   [Main page](https://proggers.ru)
 
 Useful links:
 -------------
