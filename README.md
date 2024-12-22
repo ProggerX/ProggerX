@@ -1,5 +1,10 @@
 # Hello!
 ### I am random things developer from Russia. 14 y.o.
-#### Kinda i like Nix and golang (i learn Haskell btw)
-#### My site: (i deleted it because of shit UI)
+#### I code in Go and learn Haskell.
+#### Nix is my beloved
+#### Get in touch:
+- [Telegram](https://proggerx.t.me)
+- Discord: @ProggerX
+
+
 [![ProggerX's GitHub stats](https://github-readme-stats.vercel.app/api?username=ProggerX&show_icons=true&theme=tokyonight)](https://github.com/ProggerX)
