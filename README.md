@@ -7,4 +7,4 @@
 - Discord: @ProggerX
 
 
-[![ProggerX's GitHub stats](https://github-readme-stats.vercel.app/api?username=ProggerX&show_icons=true&theme=tokyonight)](https://github.com/ProggerX)
+[![ProggerX's GitHub stats](https://github-readme-stats.vercel.app/api?username=ProggerX&show_icons=true&theme=gruvbox)](https://github.com/ProggerX)
