@@ -12,5 +12,5 @@ Get in touch: @proggerx in [telegram](https://proggerx.t.me) and discord
 
 [![ProggerX's GitHub stats](https://github-readme-stats.vercel.app/api?username=ProggerX&show_icons=true&theme=gruvbox)](https://github.com/ProggerX)
 
-### Codewars progress (training since March 4, 2025)
+### Codewars progress
 ![Badge](https://www.codewars.com/users/ProggerX/badges/large)
