@@ -9,7 +9,7 @@
 ### Info
 Random things dev, 14 y.o.\
 Member of NixOS community (amateur)\
-Member of [NotBalds](https://github.com/NotBalds)\
+Founder of [NotBalds](https://github.com/NotBalds)\
 Get in touch: @proggerx in [telegram](https://proggerx.t.me) and discord
 
 [![ProggerX's GitHub stats](https://github-readme-stats.vercel.app/api?username=ProggerX&show_icons=true&theme=gruvbox)](https://github.com/ProggerX)
