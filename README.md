@@ -8,6 +8,7 @@
 
 ### Info
 Random things dev, 14 y.o.\
+Member of NixOS community (amateur)\
 Member of [NotBalds](https://github.com/NotBalds)\
 Get in touch: @proggerx in [telegram](https://proggerx.t.me) and discord
 
