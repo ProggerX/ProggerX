@@ -7,7 +7,7 @@
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white) ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white) ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 
 ### Info
-Random things dev, 14 y.o.\
+Random things dev, 15 y.o.\
 Member of NixOS community (amateur)\
 Founder of [NotBalds](https://github.com/NotBalds)\
 Get in touch: @proggerx in [telegram](https://proggerx.t.me) and discord
