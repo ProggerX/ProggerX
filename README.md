@@ -12,7 +12,7 @@ Member of NixOS community (amateur)\
 Founder of [NotBalds](https://github.com/NotBalds)\
 Get in touch: @proggerx in [telegram](https://proggerx.t.me) and discord
 
-![ProggerX's GitHub stats](https://github-readme-stats.vercel.app/api?username=ProggerX&show_icons=true&theme=gruvbox)
+[![ProggerX's GitHub stats](https://github-readme-stats-kappa-liart-12.vercel.app/api?username=ProggerX&theme=gruvbox&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Codewars progress
 ![Badge](https://www.codewars.com/users/ProggerX/badges/large)
