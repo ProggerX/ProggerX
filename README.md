@@ -8,7 +8,7 @@
 ### Info
 Random things dev, 15 y.o.\
 Member of NixOS community (amateur)\
-Founder of [NotBalds](https://github.com/NotBalds)\
+Founder of [NotBalds](https://github.com/NotBalds) (CAUTION: microslop gitgud link)\
 Get in touch: @proggerx in [telegram](https://proggerx.t.me) and discord\
 Me on Hackage: [sandgur](https://hackage.haskell.org/user/sandgur)
 
